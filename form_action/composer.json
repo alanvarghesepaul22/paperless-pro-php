@@ -1,0 +1,15 @@
+{
+    "name": "alan/pdftk",
+    "authors": [
+        {
+            "name": "Alan Varghese Paul",
+            "email": "alanvarghesepaul29@gmail.com"
+        }
+    ],
+    "autoload": {
+        "Classes\\":"./classes"
+    },
+    "require": {
+        "mikehaertl/php-pdftk": "^0.12.1"
+    }
+}
